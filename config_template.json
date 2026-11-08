@@ -1,0 +1,13 @@
+{
+    "theme": "dark",
+    "activated": false,
+    "Pin_Code": "ENTER CODE",
+    "Config_code": "ENTER CONFIG CODE",
+    "alarm_active": false,
+    "audio_file": "alarm.mp3",
+    "audio_options": [
+        "audio/alarm.mp3",
+        "audio/alarm2.mp3"
+    ],
+    "sound_active": false
+}
