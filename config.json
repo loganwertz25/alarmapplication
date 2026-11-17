@@ -1,0 +1,13 @@
+{
+    "theme": "dark",
+    "activated": false,
+    "Pin_Code": "0928",
+    "Config_code": "0530#",
+    "alarm_active": false,
+    "audio_file": "success.mp3",
+    "audio_options": [
+        "audio/alarm.mp3",
+        "audio/alarm2.mp3"
+    ],
+    "sound_active": false
+}
